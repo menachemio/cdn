@@ -300,7 +300,7 @@ body div#chabad_head .chabad_navigator_bar li.active a.parent, body div#chabad_h
     border-color: #ffffff !important;
 }
 
-.navi, a:hover {
+.chabad_navigator_bar, a:hover {
     background-color: #a0e2fd;
 }
 @media only screen and (max-device-width: 480px) {
