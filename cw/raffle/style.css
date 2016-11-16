@@ -288,7 +288,7 @@ border-top-right-radius: 25px;
 
 /* Nav */
 .navi {
-    background: none repeat scroll 0 0 #a0e2fd !important;
+    background: none repeat scroll 0 0 #010101 !important;
 }
 body div#chabad_head .chabad_navigator_bar li a {
     color: #ffffff !important;
