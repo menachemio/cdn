@@ -299,6 +299,10 @@ body div#chabad_head .chabad_navigator_bar li a {
 body div#chabad_head .chabad_navigator_bar li.active a.parent, body div#chabad_head .chabad_navigator_bar a.parent.selected, body div#chabad_head .chabad_navigator_bar a.parent:hover, body div#chabad_head .chabad_navigator_bar .sub_menu li.last {
     border-color: #ffffff !important;
 }
+
+a:hover {
+    background-color: #a0e2fd;
+}
 @media only screen and (max-device-width: 480px) {
   /* define mobile specific styles come here */
 		a.parent.selected {
