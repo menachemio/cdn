@@ -1,4 +1,4 @@
-/* https://creativesls.com/cs4u_ca/chabad_westmount/campaign/css/donate.css */
+#cco_campaign_header1 /* https://creativesls.com/cs4u_ca/chabad_westmount/campaign/css/donate.css */
 /* templateless Elements */
 BODY {
     background-color: #a0e2fd !important;
@@ -6,17 +6,6 @@ background-image: url(https://httpsimage.com/img/website-wallpaper-small.png ) !
 background-repeat: repeat !important;
 background-attachment: fixed !important;
 }
-
-
-#countdown_container {@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 770px) {margin:auto !important; margin-right:0px !important; float:none !important;}}
-
-#cco_campaign_header1 {
-	@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 770px) {margin:auto !important;}
-	}
 
 body .co_menu_container, body.cco_body .co_menu_container {
     display: none !important;
@@ -350,3 +339,12 @@ body div#chabad_head .chabad_navigator_bar li.active a.parent, body div#chabad_h
 	}
 }
 
+#countdown_container {@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 770px) {margin:auto !important; margin-right:0px !important; float:none !important;}}
+
+#cco_campaign_header1 {
+	@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 770px) {margin:auto !important; margin-right:0px !important;}
+	}
