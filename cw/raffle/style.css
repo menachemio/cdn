@@ -2,6 +2,11 @@
 
 /* https://creativesls.com/cs4u_ca/chabad_westmount/campaign/css/donate.css */
 /* templateless Elements */
+.show{
+	 
+@media only screen and (min-device-width: 770px) {
+	padding:44px;}}
+
 BODY {
     background-color: #a0e2fd !important;
 background-image: url(https://httpsimage.com/img/website-wallpaper-small.png ) !important;
