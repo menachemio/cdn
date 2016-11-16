@@ -256,10 +256,10 @@ body.campaign_goal_reached .campaign_tracker .extra_large {
 }
 
 .chabad_content_head {
-background: #2c2e2f;
+background: #0d0e0e;
 border-top-left-radius: 25px;
 border: 2px solid #0d0e0e;
-padding: 5px !important;
+padding: 5px;
 border-top-right-radius: 25px;	
 }
 
