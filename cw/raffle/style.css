@@ -255,6 +255,14 @@ body.campaign_goal_reached .campaign_tracker .extra_large {
     height: 100%;
 }
 
+.chabad_content_head {
+background: #2c2e2f;
+border-top-left-radius: 25px;
+border: 2px solid #0d0e0e;
+padding: 5px;
+border-top-right-radius: 25px;	
+}
+
 /* Matchbox */
 #matchbox {
 	display:none !important;
@@ -329,3 +337,5 @@ body div#chabad_head .chabad_navigator_bar li.active a.parent, body div#chabad_h
     width: 89% !important;
 	}
 }
+
+	
