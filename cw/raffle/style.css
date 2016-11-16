@@ -36,12 +36,12 @@ body .co_menu_container, body.cco_body .co_menu_container {
 
 
 .footer_text, .footer_text a {
-    color: #a0e2fd !important;
+    color: red !important;
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 }
 
 .footer_text, a:hover {
-    color: #a0e2fd !important;
+    color: red !important;
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 }
 
