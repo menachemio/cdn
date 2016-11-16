@@ -6,6 +6,9 @@ background-image: url(https://httpsimage.com/img/website-wallpaper-small.png ) !
 background-repeat: repeat !important;
 background-attachment: fixed !important;
 }
+#cco_campaign_header1 {
+
+	margin:auto;}
 
 body .co_menu_container, body.cco_body .co_menu_container {
     display: none !important;
