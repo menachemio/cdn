@@ -259,7 +259,7 @@ body.campaign_goal_reached .campaign_tracker .extra_large {
 background: #2c2e2f;
 border-top-left-radius: 25px;
 border: 2px solid #0d0e0e;
-padding: 5px;
+padding: 5px !important;
 border-top-right-radius: 25px;	
 }
 
