@@ -1,0 +1,331 @@
+/* templateless Elements */
+BODY {
+    background-color: #000000 !important;
+	background-image: url("https://creativesls.com/cs4u_ca/chabad_westmount/campaign/images/back1.jpg") !important;
+    background-repeat: repeat !important;
+    background-attachment: fixed !important;
+	background-position: top left !important;
+}
+
+body .co_menu_container, body.cco_body .co_menu_container {
+    display: none !important;
+}
+#header_branding {
+	display:none;
+}
+
+#BodyContainer .body_wrapper {
+    background-color: transparent;
+    border-radius: 0 0 3px 3px;
+}
+
+.content_title_container .content_title, .content_title_container h1 {
+    border-bottom: 1px dotted #28446c;
+    color: #28446c;
+    display: none;
+    font-family: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 895px;
+    z-index: 1;
+}
+#header_container{
+	display:none;
+}
+
+
+.footer_text, .footer_text a {
+    color: #e3ae3c !important;
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+}
+
+.footer_text, a:hover {
+    color: #e3ae3c !important;
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+}
+
+@media only screen and (max-device-width: 480px) {
+  /* define mobile specific styles come here */
+		.footer_text, .footer_text a {
+			color: #fff !important;
+			FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+		}
+		.footer_text, a:hover {
+			color: #fff !important;
+			FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+		}
+}
+
+/* Hide Ticker Bar on Campaign Page */
+#bar3684 {display:none !important}
+
+/* Title */
+#cco_campaign_header1 {
+	color: #e3ae3c;
+    FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+	FONT-WEIGHT: bold; 
+    font-size: 32px;
+    margin-top: 5px !important;
+    text-shadow: 0 0 1px rgba(0, 0, 0, 0.01);
+	max-width: 550px !important;
+}
+#cco_campaign_header2 {
+	color: #e3ae3c;
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+	FONT-WEIGHT: bold; 
+	text-shadow: none !important;
+	font-size: 22px;
+	display:none !important;
+}
+
+.layout-right-content #sidebar {
+    float: left;
+    max-width: 250px !important;
+}
+	
+@media only screen and (max-device-width: 480px) {
+  /* define mobile specific styles come here */
+		#cco_campaign_header1 {
+			color: #e3ae3c;
+			FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+			FONT-WEIGHT: bold; 
+			font-size: 24px;
+			margin-top: 5px !important;
+			text-shadow: 0 0 1px rgba(0, 0, 0, 0.01);
+			text-align: center !important;
+		}
+		#cco_campaign_header2 {
+			color: #e3ae3c;
+			FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+			FONT-WEIGHT: bold; 
+			text-shadow: none !important;
+			font-size: 14px;
+			text-align: center !important;
+		}
+		.campaign_countdown[class^="widget-"] .widget_content {
+			text-align: center !important;
+		}
+}	
+	
+/* social media */
+
+##.social_sharing .widget_content {
+    min-height: 100px;
+    position: relative !important;
+    left: 40px !important;
+}
+##.share_message {
+	position:relative !important;
+	left:-40px !important;
+}
+
+#whatsapp {display:none}
+[class^="widget-"].social_sharing{z-index: 1 !important;}
+
+@media only screen and (max-device-width: 480px) {
+  /* define mobile specific styles come here */
+	#whatsapp {
+		position: relative; 
+		top: 5px; 
+		left: 0px;
+		display:block !important;
+		z-index: 1 !important;
+	}
+	[class^="widget-"].social_sharing{z-index: 1 !important;}
+}
+ 
+/* content */
+.text {
+	FONT-SIZE: 15px; 
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+	FONT-WEIGHT: normal; 
+	COLOR: #444; 
+	MARGIN-bottom: 20px; 
+	LINE-HEIGHT: 1.35em
+}
+.text2 {
+	FONT-SIZE: 18px; 
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+	FONT-WEIGHT: normal; 
+	COLOR: #444; 
+	MARGIN: 0px; 
+	LINE-HEIGHT: 1.35em
+}
+.text3 {
+	FONT-SIZE: 24px !important; 
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+	FONT-WEIGHT: normal; 
+	COLOR: #e3ae3c !important; 
+	MARGIN: 0px !important; 
+	LINE-HEIGHT: 1.35em !important;
+}
+.text4 {
+	FONT-SIZE: 18px !important; 
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+	FONT-WEIGHT: bold; 
+	COLOR: #e3ae3c !important; 
+	MARGIN-bottom: 20px !important; 
+	LINE-HEIGHT: 1.35em !important;
+}
+#banner{
+	width:500px;
+	padding-bottom:10px;
+}
+@media only screen and (max-device-width: 480px) {
+  /* define mobile specific styles come here */
+	#banner{
+	width:360px;
+	padding-bottom:10px;
+	padding-left:0px;
+	}
+}
+
+/* Countdown */
+.campaign_countdown {
+	color: #e3ae3c !important;
+	text-shadow: none !important;
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+}
+.countdown_number img {
+    background: #e3ae3c none repeat scroll 0 0;
+    height: 50%;
+    left: -5px;
+    position: absolute;
+	text-shadow: none !important;
+}
+h5 {
+	color: #e3ae3c !important;
+	text-shadow: none !important;
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+}
+
+/* Goal */
+.campaign_tracker .extra_large {
+    color: #e3ae3c !important;
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+    font-size: 42px;
+    line-height: 1;
+}
+body.campaign_goal_reached .campaign_tracker .extra_large {
+    color: #e3ae3c !important;
+    text-shadow: none !important;
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+}
+.large {
+    color: #000 !important;
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+}
+.campaign_partners[class^="widget-"] h5, .campaign_partners .dedication, .campaign_partners .donor_unit{
+	color: #e3ae3c !important;
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+}
+.campaign_tracker .goals_filled {
+    background: #e3ae3c none repeat scroll 0 0;
+    transition: width 1s ease-out 0s;
+    width: 0;
+}
+
+/* Partners Block */
+.campaign_partners img {
+	display:none !important;
+}
+.g280 {
+	background-color: #e3a935 !important;
+}
+.campaign_partners .campaign_partner{
+	border-bottom: 4px solid #e3ae3c !important;
+}
+
+/* youtube */
+.video-container {
+    position: relative;
+    padding-bottom: 62.25%;
+    padding-top: 10px; height: 0; overflow: hidden;
+	z-index: 1 !important;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Matchbox */
+#matchbox {
+	display:none !important;
+}
+#new-matchbox {
+	width: 100%;
+	min-height:200px;
+	background-color: #000;
+}
+
+
+
+/* Nav */
+.navi {
+    background: none repeat scroll 0 0 #e3ae3c !important;
+}
+body div#chabad_head .chabad_navigator_bar li a {
+    color: #ffffff !important;
+	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+	text-shadow: none !important;
+} 
+
+body div#chabad_head .chabad_navigator_bar li.active a.parent, body div#chabad_head .chabad_navigator_bar a.parent.selected, body div#chabad_head .chabad_navigator_bar a.parent:hover, body div#chabad_head .chabad_navigator_bar .sub_menu li.last {
+    border-color: #ffffff !important;
+}
+@media only screen and (max-device-width: 480px) {
+  /* define mobile specific styles come here */
+		a.parent.selected {
+		color: #e3ae3c !important;
+		}
+}	
+
+
+/* Donate Button */
+.campaign_button #DonateButton.button {
+	background: rgba(0, 0, 0, 0) linear-gradient(#e3ae3c, #e3ae3c) repeat scroll 0 0;
+    FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
+	font-size: 20px;
+    font-weight: bold;
+    opacity: 1;
+    transition: opacity 1s ease 0s;
+	z-index: 1 !important;
+}
+
+/* cs4u tagline*/
+#tagline {
+	text-decoration: none !important;
+	padding-top:8px !important;
+	color: #e3ae3c !important;
+	z-index: 1 !important;
+	position: absolute;
+    left: 33%;
+}
+@media only screen and (max-device-width: 480px) {
+  /* define mobile specific styles come here */
+	#tagline {
+	text-decoration: none !important;
+	padding-top:0px !important;
+	color: #e3ae3c !important;
+	z-index: 1 !important;
+	position: absolute;
+    left: 15px;
+}
+
+@media only screen and (max-device-width: 767px) {
+  /* define mobile specific styles come here */
+	#chabad_head{
+		background-color: #000
+	}
+	.campaign_partner {
+    height: 73px;
+    width: 89% !important;
+	}
+}
