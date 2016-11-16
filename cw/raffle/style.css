@@ -348,3 +348,9 @@ and (max-device-width : 770px) {margin:auto !important; margin-right:0px !import
 and (min-device-width : 320px)
 and (max-device-width : 770px) {margin:auto !important; margin-right:0px !important;}
 	}
+
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 770px) {	.dir_ltr [class^="widget-"].campaign_countdown {
+     float: none !important;
+	}}
