@@ -62,7 +62,7 @@ body .co_menu_container, body.cco_body .co_menu_container {
 
 /* Title */
 #cco_campaign_header1 {
-	color: #e3ae3c;
+	color: #a0e2fd;
     FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 	FONT-WEIGHT: bold; 
     font-size: 32px;
@@ -71,7 +71,7 @@ body .co_menu_container, body.cco_body .co_menu_container {
 	max-width: 550px !important;
 }
 #cco_campaign_header2 {
-	color: #e3ae3c;
+	color: #a0e2fd;
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 	FONT-WEIGHT: bold; 
 	text-shadow: none !important;
@@ -87,7 +87,7 @@ body .co_menu_container, body.cco_body .co_menu_container {
 @media only screen and (max-device-width: 480px) {
   /* define mobile specific styles come here */
 		#cco_campaign_header1 {
-			color: #e3ae3c;
+			color: #a0e2fd;
 			FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 			FONT-WEIGHT: bold; 
 			font-size: 24px;
@@ -96,7 +96,7 @@ body .co_menu_container, body.cco_body .co_menu_container {
 			text-align: center !important;
 		}
 		#cco_campaign_header2 {
-			color: #e3ae3c;
+			color: #a0e2fd;
 			FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 			FONT-WEIGHT: bold; 
 			text-shadow: none !important;
@@ -156,7 +156,7 @@ body .co_menu_container, body.cco_body .co_menu_container {
 	FONT-SIZE: 24px !important; 
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 	FONT-WEIGHT: normal; 
-	COLOR: #e3ae3c !important; 
+	COLOR: #a0e2fd !important; 
 	MARGIN: 0px !important; 
 	LINE-HEIGHT: 1.35em !important;
 }
@@ -164,7 +164,7 @@ body .co_menu_container, body.cco_body .co_menu_container {
 	FONT-SIZE: 18px !important; 
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 	FONT-WEIGHT: bold; 
-	COLOR: #e3ae3c !important; 
+	COLOR: #a0e2fd !important; 
 	MARGIN-bottom: 20px !important; 
 	LINE-HEIGHT: 1.35em !important;
 }
@@ -183,32 +183,32 @@ body .co_menu_container, body.cco_body .co_menu_container {
 
 /* Countdown */
 .campaign_countdown {
-	color: #e3ae3c !important;
+	color: #a0e2fd !important;
 	text-shadow: none !important;
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 }
 .countdown_number img {
-    background: #e3ae3c none repeat scroll 0 0;
+    background: #a0e2fd none repeat scroll 0 0;
     height: 50%;
     left: -5px;
     position: absolute;
 	text-shadow: none !important;
 }
 h5 {
-	color: #e3ae3c !important;
+	color: #a0e2fd !important;
 	text-shadow: none !important;
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 }
 
 /* Goal */
 .campaign_tracker .extra_large {
-    color: #e3ae3c !important;
+    color: #a0e2fd !important;
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
     font-size: 42px;
     line-height: 1;
 }
 body.campaign_goal_reached .campaign_tracker .extra_large {
-    color: #e3ae3c !important;
+    color: #a0e2fd !important;
     text-shadow: none !important;
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 }
@@ -217,11 +217,11 @@ body.campaign_goal_reached .campaign_tracker .extra_large {
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 }
 .campaign_partners[class^="widget-"] h5, .campaign_partners .dedication, .campaign_partners .donor_unit{
-	color: #e3ae3c !important;
+	color: #a0e2fd !important;
 	FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 }
 .campaign_tracker .goals_filled {
-    background: #e3ae3c none repeat scroll 0 0;
+    background: #a0e2fd none repeat scroll 0 0;
     transition: width 1s ease-out 0s;
     width: 0;
 }
@@ -234,7 +234,7 @@ body.campaign_goal_reached .campaign_tracker .extra_large {
 	background-color: #e3a935 !important;
 }
 .campaign_partners .campaign_partner{
-	border-bottom: 4px solid #e3ae3c !important;
+	border-bottom: 4px solid #a0e2fd !important;
 }
 
 /* youtube */
@@ -277,7 +277,7 @@ border-top-right-radius: 25px;
 
 /* Nav */
 .navi {
-    background: none repeat scroll 0 0 #e3ae3c !important;
+    background: none repeat scroll 0 0 #a0e2fd !important;
 }
 body div#chabad_head .chabad_navigator_bar li a {
     color: #ffffff !important;
@@ -291,14 +291,14 @@ body div#chabad_head .chabad_navigator_bar li.active a.parent, body div#chabad_h
 @media only screen and (max-device-width: 480px) {
   /* define mobile specific styles come here */
 		a.parent.selected {
-		color: #e3ae3c !important;
+		color: #a0e2fd !important;
 		}
 }	
 
 
 /* Donate Button */
 .campaign_button #DonateButton.button {
-	background: rgba(0, 0, 0, 0) linear-gradient(#e3ae3c, #e3ae3c) repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) linear-gradient(#a0e2fd, #a0e2fd) repeat scroll 0 0;
     FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 	font-size: 20px;
     font-weight: bold;
@@ -311,7 +311,7 @@ body div#chabad_head .chabad_navigator_bar li.active a.parent, body div#chabad_h
 #tagline {
 	text-decoration: none !important;
 	padding-top:8px !important;
-	color: #e3ae3c !important;
+	color: #a0e2fd !important;
 	z-index: 1 !important;
 	position: absolute;
     left: 33%;
@@ -321,7 +321,7 @@ body div#chabad_head .chabad_navigator_bar li.active a.parent, body div#chabad_h
 	#tagline {
 	text-decoration: none !important;
 	padding-top:0px !important;
-	color: #e3ae3c !important;
+	color: #a0e2fd !important;
 	z-index: 1 !important;
 	position: absolute;
     left: 15px;
@@ -338,4 +338,3 @@ body div#chabad_head .chabad_navigator_bar li.active a.parent, body div#chabad_h
 	}
 }
 
-	
