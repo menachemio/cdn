@@ -69,7 +69,7 @@ body .co_menu_container, body.cco_body .co_menu_container {
     margin-top: 5px !important;
     text-shadow: 0 0 1px rgba(0, 0, 0, 0.01);
 	max-width: 550px !important;
-	@media only screen and (max-device-width: 480px) {max-width: 100% !important;}
+	@media only screen and (max-device-width: 770px) {max-width: 100% !important;}
 }
 #cco_campaign_header2 {
 	color: #a0e2fd;
