@@ -6,6 +6,8 @@ background-image: url(https://httpsimage.com/img/website-wallpaper-small.png ) !
 background-repeat: repeat !important;
 background-attachment: fixed !important;
 }
+#countdown_container {@media only screen and (max-device-width: 770px) {margin-right:auto;}}
+
 #cco_campaign_header1 {
 	@media only screen and (max-device-width: 770px) {margin:auto;}
 	}
