@@ -5,7 +5,7 @@
 
 	 
 @media only screen and (min-device-width: 770px) {.show{
-	padding:44px;}}
+	padding:44px !important;}}
 
 BODY {
     background-color: #a0e2fd !important;
