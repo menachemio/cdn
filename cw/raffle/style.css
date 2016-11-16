@@ -6,10 +6,16 @@ background-image: url(https://httpsimage.com/img/website-wallpaper-small.png ) !
 background-repeat: repeat !important;
 background-attachment: fixed !important;
 }
-#countdown_container {@media (max-width: 770px) {margin:auto !important;}}
+
+
+#countdown_container {@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 770px) {margin:auto !important; margin-right:0px !important;}}
 
 #cco_campaign_header1 {
-	@media (max-width: 770px) {margin:auto !important;}
+	@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 770px) {margin:auto !important;}
 	}
 
 body .co_menu_container, body.cco_body .co_menu_container {
