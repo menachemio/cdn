@@ -68,7 +68,7 @@ body .co_menu_container, body.cco_body .co_menu_container {
     font-size: 32px;
     margin-top: 5px !important;
     text-shadow: 0 0 1px rgba(0, 0, 0, 0.01);
-	max-width: 550px !important;
+	/* max-width: 550px !important; */
 }
 #cco_campaign_header2 {
 	color: #a0e2fd;
