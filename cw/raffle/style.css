@@ -313,7 +313,7 @@ body div#chabad_head .chabad_navigator_bar li a:hover {
 
 /* Donate Button */
 .campaign_button #DonateButton.button {
-	background: rgba(0, 0, 0, 0) linear-gradient(#a0e2fd, #a0e2fd) repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) linear-gradient(#ff9bd3, #ff9bd3) repeat scroll 0 0;
     FONT-FAMILY: "Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important; 
 	font-size: 20px;
     font-weight: bold;
