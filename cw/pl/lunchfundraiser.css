@@ -1,8 +1,7 @@
 #chabad_head {
 	background: #332710;
+	border: 2px solid #0d0e0e;	
 	border-top-left-radius: 25px;
-	border: 2px solid #0d0e0e;
-	padding: 5px;
 	border-top-right-radius: 25px;
 }
 #chabad_body_page {
