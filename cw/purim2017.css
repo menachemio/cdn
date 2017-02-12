@@ -5,7 +5,7 @@
 	border-top-right-radius: 25px; */
 }
 #chabad_body_page {
-	background: #fcb913;
+	background: #f8caa2;
 }
 #chabad_main_content {
 	background: #FFFFFF;
@@ -17,4 +17,9 @@
 
 #chabad_head .chabad_navigator_bar .chabad_menu_content {
     color: #fcba0b;
+}
+
+#chabad_body_content {
+
+	background-color: #1a0400 !important;
 }
