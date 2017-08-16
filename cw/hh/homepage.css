@@ -1,4 +1,4 @@
-/* #chabad_head {
+#chabad_head {
 	 background: #332710;
 	border: 2px solid #0d0e0e;	
 	border-top-left-radius: 25px;
@@ -9,12 +9,12 @@
 }
 #chabad_main_content {
 	background: #FFFFFF;
-} */
+}
 
 #chabad_menu_content {
 	color: #f9ddc5 !important;
 }
 
-/* #chabad_head .chabad_navigator_bar .chabad_menu_content {
+#chabad_head .chabad_navigator_bar .chabad_menu_content {
     color: #fcba0b;
 }
