@@ -1,0 +1,20 @@
+#chabad_head {
+	background: #332710;
+	/* border: 2px solid #0d0e0e;	
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px; */
+}
+#chabad_body_page {
+	background: #fcb913;
+}
+#chabad_main_content {
+	background: #FFFFFF;
+}
+
+#chabad_menu_content {
+	color: #fcba0b !important;
+}
+
+#chabad_head .chabad_navigator_bar .chabad_menu_content {
+    color: #fcba0b;
+}
