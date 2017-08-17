@@ -29,5 +29,6 @@
 }
 
 #chabad_head .chabad_navigator_bar .chabad_menu_content {
-    color: #7b5c30;
+    color: #7b5c30 !important;
+	border-bottom: 1px solid;
 }
