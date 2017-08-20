@@ -23,11 +23,6 @@
 }
 */
 
-.parent arrow {
-	background: black !important;
-
-}
-
 #chabad_menu_content {
 	color: #7b5c30 !important;
 	border-bottom: 1px solid;
@@ -38,4 +33,8 @@
 	border-bottom: 1px solid;
 }
 
-http://w5.chabad.org/images/1/global/bullets/down_triangle_blue-grey.png
+
+.chabad_navigator_bar ul li a.arrow {
+    background: url('http://w5.chabad.org/images/1/global/bullets/down_triangle_blue-grey.png') no-repeat right center !important;
+    padding-right: 26px;
+}
