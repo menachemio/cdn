@@ -38,3 +38,7 @@
     background: url('http://w5.chabad.org/images/1/global/bullets/down_triangle_blue-grey.png') no-repeat right center !important;
     padding-right: 21px !important;
 }
+
+.sub_menu {
+    background: beige;
+}
