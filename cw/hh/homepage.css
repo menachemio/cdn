@@ -61,7 +61,7 @@ float: left;
     margin-right: 15px !important;
 }
 
-#icon-effect, a:hover {
+.icon-effect a:hover {
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
 }
