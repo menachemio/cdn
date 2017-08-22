@@ -9,7 +9,7 @@
 
 
 #chabad_body_page {
-	background: beige;
+	background: #dfd6d1; /* beige; */
 }
 
 
@@ -40,11 +40,12 @@
 }
 
 .sub_menu {
-    background: beige;
+    background: #dfd6d1; /* beige; */
+
 }
 
 .cco_templateless_template, .cco_templateless_template a{
-color: beige !important;
+color: #dfd6d1 !important; /* beige; */
 }
 
 .cco_templateless_template {
@@ -60,7 +61,7 @@ float: left;
     margin-right: 15px !important;
 }
 
-.icon-effect, a:hover {
+#icon-effect, a:hover {
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
 }
