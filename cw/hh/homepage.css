@@ -54,8 +54,8 @@ background-color: rgba(45, 45, 45, 0.62) !important;
 
 div#chabad_left_colum, div.chabad_left_colum, div.chabad_left_column{
 float: left;
-    margin-left: 15px;
-    margin-bottom: 0;
-    width: 97%;
-    margin-right: 15px
+    margin-left: 15px !important;
+    margin-bottom: 0 !important;
+    width: 97% !important;
+    margin-right: 15px !important;
 }
