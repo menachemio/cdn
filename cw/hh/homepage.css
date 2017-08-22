@@ -60,5 +60,7 @@ float: left;
     margin-right: 15px !important;
 }
 
+.b-icon, a:hover {
+	background-color: green; }
 
-a.b-icon:hover, a.b-icon:active {color: red;}
+a.b-icon:hover, a.b-icon:active {background-color: red;}
