@@ -42,3 +42,12 @@
 .sub_menu {
     background: beige;
 }
+
+.cco_templateless_template, .cco_templateless_template a{
+color: beige !important;
+}
+
+.cco_templateless_template {
+background-image: url() !important;
+background-color: rgba(45, 45, 45, 0.62) !important;
+}
