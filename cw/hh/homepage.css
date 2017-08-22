@@ -80,3 +80,7 @@ a.b-icon:hover, a.b-icon:active {background-color: red;}
     border-radius: 5px;
 }
 
+.img2, hover {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
