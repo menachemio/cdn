@@ -64,3 +64,19 @@ float: left;
 	background-color: green; }
 
 a.b-icon:hover, a.b-icon:active {background-color: red;}
+
+.overlay, a:hover{
+    position: absolute;
+    z-index: 1000; /* Something high */
+    height: 200px;
+    width: 200px;
+    background: white;
+    top: 50%;
+    left: 50%;
+    margin-left: -100px; /* Negative half width */
+    margin-top: -100px; /* Negative half height */
+    box-shadow: 0 0 0 2038px rgba(0,0,0,.5); /* The semi-transparent bg. Something weird about Safari and numbers bigger than 2038 */
+    -webkit-transition: 1s; /* Little extra spice */
+    border-radius: 5px;
+}
+
