@@ -52,13 +52,19 @@ color: #dfd6d1 !important; /* beige; */
 background-image: url() !important;
 background-color: rgba(45, 45, 45, 0.62) !important;
 }
-
+	
 div#chabad_left_colum, div.chabad_left_colum, div.chabad_left_column{
 float: left;
     margin-left: 15px !important;
     margin-bottom: 0 !important;
     width: 97% !important;
     margin-right: 15px !important;
+}
+
+@media only screen and (max-device-width: 480px) {
+div#chabad_left_colum, div.chabad_left_colum, div.chabad_left_column{
+    margin-left: 9.9px !important;
+}
 }
 
 .icon-effect a:hover {
