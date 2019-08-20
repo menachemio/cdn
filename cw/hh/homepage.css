@@ -7,6 +7,10 @@
 }
 */
 
+.co_content_container {
+	padding-top: 0px !important;
+}
+
 
 #chabad_body_page {
 	background: #dfd6d1; /* beige; */
