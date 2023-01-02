@@ -2,16 +2,16 @@
     {
         "number": "1",
         "description": "New York",
-        "phoneNumber": "+1 514 552 5554"
+        "phoneNumber": "+15145525554"
     },
     {
         "number": "2",
         "description": "Montreal",
-        "phoneNumber": "+1 7163031715"
+        "phoneNumber": "+17163031715"
     },
     {
         "number": "3",
         "description": "Toronto",
-        "phoneNumber": "+1 438 5058353"
+        "phoneNumber": "+14385058353"
     }
 ]
