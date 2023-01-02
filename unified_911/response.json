@@ -1,17 +1,17 @@
 [
     {
         "number": "1",
-        "description": "sales",
-        "phoneNumber": "+1234567890"
+        "description": "New York",
+        "phoneNumber": "+1 514 552 5554"
     },
     {
         "number": "2",
-        "description": "support",
-        "phoneNumber": "+1234567890"
+        "description": "Montreal",
+        "phoneNumber": "+1 7163031715"
     },
     {
         "number": "3",
-        "description": "general inquiries",
-        "phoneNumber": "+1234567890"
+        "description": "Toronto",
+        "phoneNumber": "+1 438 5058353"
     }
 ]
