@@ -1,0 +1,17 @@
+[
+    {
+        "number": "1",
+        "description": "sales",
+        "phoneNumber": "+1234567890"
+    },
+    {
+        "number": "2",
+        "description": "support",
+        "phoneNumber": "+1234567890"
+    },
+    {
+        "number": "3",
+        "description": "general inquiries",
+        "phoneNumber": "+1234567890"
+    }
+]
