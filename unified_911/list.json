@@ -3,1386 +3,1386 @@
     "id": 999,
     "code": 999,
     "name": "Yellowknife",
-    "Hatzalah": "+17163031715",
-    "Chaveirim": "+17163031715"
+    "hatzalah": "+17163031715",
+    "chaveirim": "+17163031715"
   },
   {
     "id": 1,
     "code": 718,
     "name": "New York",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17184318181"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17184318181"
   },
   {
     "id": 2,
     "code": "",
     "name": "Averne",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 3,
     "code": "",
     "name": "Atlantic Beach",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 4,
     "code": "",
     "name": "Bayswater",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 5,
     "code": "",
     "name": "Belle Harbor",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 6,
     "code": "",
     "name": "Bensonhurst",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 7,
     "code": "",
     "name": "Bergan Beach",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 8,
     "code": "",
     "name": "Borough Park",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17184318181"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17184318181"
   },
   {
     "id": 9,
     "code": "",
     "name": "Briarwood",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 10,
     "code": "",
     "name": "Brighton Beach",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 11,
     "code": "",
     "name": "Canarsie",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 12,
     "code": "",
     "name": "Cedarhurst",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 13,
     "code": 770,
     "name": "Crown Heights",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17182221800"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17182221800"
   },
   {
     "id": 14,
     "code": "",
     "name": "East Rockaway",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 15,
     "code": "",
     "name": "Far Rockaway",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17184318181"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17184318181"
   },
   {
     "id": 16,
     "code": "",
     "name": "Flatbush",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17184318181"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17184318181"
   },
   {
     "id": 17,
     "code": "",
     "name": "Flushing",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 18,
     "code": "",
     "name": "Forest Hills",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 19,
     "code": "",
     "name": "Georgetown",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 20,
     "code": "",
     "name": "Great Neck",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 21,
     "code": "",
     "name": "Hewlett",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 22,
     "code": "",
     "name": "Hillcrest",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 23,
     "code": "",
     "name": "Howard Beach",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 24,
     "code": "",
     "name": "Inwood",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 25,
     "code": "",
     "name": "Jamaica Estates",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 26,
     "code": "",
     "name": "Kensington",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 27,
     "code": "",
     "name": "Kew Gardens",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 28,
     "code": "",
     "name": "Kew Garden Hills",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 29,
     "code": "",
     "name": "Lawrence",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 30,
     "code": "",
     "name": "Long Beach",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 31,
     "code": "",
     "name": "Lower East Side",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 32,
     "code": 212,
     "name": "Manhattan",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17184318181"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17184318181"
   },
   {
     "id": 33,
     "code": "",
     "name": "Midwood",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 34,
     "code": "",
     "name": "Mill Basin",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 35,
     "code": "",
     "name": "Nassau County",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 36,
     "code": "",
     "name": "North Woodmere",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 37,
     "code": "",
     "name": "Queens",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17184410505"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17184410505"
   },
   {
     "id": 38,
     "code": "",
     "name": "Rego Park",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 39,
     "code": "",
     "name": "Remson Village",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 40,
     "code": "",
     "name": "Richmond Hill",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 41,
     "code": "",
     "name": "Rockaway Lawrence",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 42,
     "code": "",
     "name": "Riverdale",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 43,
     "code": "",
     "name": "Rosedale",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 44,
     "code": "",
     "name": "Sheepshead Bay",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 45,
     "code": "",
     "name": "Starret City",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 46,
     "code": "",
     "name": "Sea Gate",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+12127324283"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+12127324283"
   },
   {
     "id": 47,
     "code": "",
     "name": "Staten Island",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17187612428"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17187612428"
   },
   {
     "id": 48,
     "code": "",
     "name": "Sullivan County",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 49,
     "code": "",
     "name": "Ulster County",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 50,
     "code": "",
     "name": "Upper East Side",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 51,
     "code": "",
     "name": "Washington Heights",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 52,
     "code": "",
     "name": "West Lawrence",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 53,
     "code": "",
     "name": "West Side",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 54,
     "code": "",
     "name": "Woodmere",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 55,
     "code": "",
     "name": "Williamsburg",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17184318181"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17184318181"
   },
   {
     "id": 56,
     "code": "",
     "name": "Yonkers",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": ""
+    "hatzalah": "+17182301000",
+    "chaveirim": ""
   },
   {
     "id": 57,
     "code": "",
     "name": "Catskills",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17184318181"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17184318181"
   },
   {
     "id": 58,
     "code": "",
     "name": "Bergen County",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": "+12018004357"
+    "hatzalah": "+12013672222",
+    "chaveirim": "+12018004357"
   },
   {
     "id": 59,
     "code": "",
     "name": "Bergen",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 60,
     "code": "",
     "name": "American Dream Mall",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 61,
     "code": "",
     "name": "Bergenfield",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 62,
     "code": "",
     "name": "Cliffside Park",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 63,
     "code": "",
     "name": "Closter",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 64,
     "code": "",
     "name": "Demarest",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 65,
     "code": "",
     "name": "Edgewater",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 66,
     "code": "",
     "name": "Englewood",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 67,
     "code": "",
     "name": "Englewood Cliffs",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 68,
     "code": "",
     "name": "Fair Lawn",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 69,
     "code": "",
     "name": "Fort Lee",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 70,
     "code": "",
     "name": "Hackensack",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 71,
     "code": "",
     "name": "Hasbrouck Heights",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 72,
     "code": "",
     "name": "Lodi",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 73,
     "code": "",
     "name": "New Milford",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 74,
     "code": "",
     "name": "Paramus",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 75,
     "code": "",
     "name": "Ridgefield",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 76,
     "code": "",
     "name": "Ridgefield Park",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 77,
     "code": "",
     "name": "Rockleigh",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 78,
     "code": "",
     "name": "Teaneck",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 79,
     "code": "",
     "name": "Tenafly",
-    "Hatzalah": "+12013672222",
-    "Chaveirim": ""
+    "hatzalah": "+12013672222",
+    "chaveirim": ""
   },
   {
     "id": 80,
     "code": 732,
     "name": "Central Jersey",
-    "Hatzalah": "+17328883000",
-    "Chaveirim": "+17323702229"
+    "hatzalah": "+17328883000",
+    "chaveirim": "+17323702229"
   },
   {
     "id": 81,
     "code": "",
     "name": "Lakewook",
-    "Hatzalah": "+17328883000",
-    "Chaveirim": ""
+    "hatzalah": "+17328883000",
+    "chaveirim": ""
   },
   {
     "id": 82,
     "code": "",
     "name": "Jackson",
-    "Hatzalah": "+17328883000",
-    "Chaveirim": ""
+    "hatzalah": "+17328883000",
+    "chaveirim": ""
   },
   {
     "id": 83,
     "code": "",
     "name": "Toms River",
-    "Hatzalah": "+17328883000",
-    "Chaveirim": ""
+    "hatzalah": "+17328883000",
+    "chaveirim": ""
   },
   {
     "id": 84,
     "code": "",
     "name": "South Florida",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": "+13053304030"
+    "hatzalah": "+13059194900",
+    "chaveirim": "+13053304030"
   },
   {
     "id": 85,
     "code": "",
     "name": "Miami",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 86,
     "code": "",
     "name": "Miami Beach",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 87,
     "code": "",
     "name": "North Miami Beach",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 88,
     "code": "",
     "name": "Surfside",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 89,
     "code": "",
     "name": "Bal Harbour",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 90,
     "code": "",
     "name": "Bay Harbor Islands",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 91,
     "code": "",
     "name": "Highland Lakes",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 92,
     "code": "",
     "name": "Sunny Isles",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 93,
     "code": "",
     "name": "Aventura",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 94,
     "code": "",
     "name": "Hallandale Beach",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 95,
     "code": "",
     "name": "Hollywood",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 96,
     "code": "",
     "name": "Lauderhill",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 97,
     "code": "",
     "name": "Boca Raton",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 98,
     "code": "",
     "name": "Deerfield Beach",
-    "Hatzalah": "+13059194900",
-    "Chaveirim": ""
+    "hatzalah": "+13059194900",
+    "chaveirim": ""
   },
   {
     "id": 99,
     "code": 514,
     "name": "Montreal",
-    "Hatzalah": "+15143411818",
-    "Chaveirim": "+15149904263"
+    "hatzalah": "+15143411818",
+    "chaveirim": "+15149904263"
   },
   {
     "id": 100,
     "code": 450,
     "name": "Tosh",
-    "Hatzalah": "+14504342222",
-    "Chaveirim": "+15149904263"
+    "hatzalah": "+14504342222",
+    "chaveirim": "+15149904263"
   },
   {
     "id": 101,
     "code": 416,
     "name": "Toronto",
-    "Hatzalah": "+14162561000",
-    "Chaveirim": "+14168314583"
+    "hatzalah": "+14162561000",
+    "chaveirim": "+14168314583"
   },
   {
     "id": 102,
     "code": 323,
     "name": "Los Angeles",
-    "Hatzalah": "+18006131911",
-    "Chaveirim": "+13239037613"
+    "hatzalah": "+18006131911",
+    "chaveirim": "+13239037613"
   },
   {
     "id": 103,
     "code": "",
     "name": "Waterbury",
-    "Hatzalah": "+12037544200",
-    "Chaveirim": "+19142220405"
+    "hatzalah": "+12037544200",
+    "chaveirim": "+19142220405"
   },
   {
     "id": 104,
     "code": "",
     "name": "Chicago",
-    "Hatzalah": "+18475041500",
-    "Chaveirim": "+17735564357"
+    "hatzalah": "+18475041500",
+    "chaveirim": "+17735564357"
   },
   {
     "id": 105,
     "code": "",
     "name": "Baltimore",
-    "Hatzalah": "+14103580000",
-    "Chaveirim": "+14104869000"
+    "hatzalah": "+14103580000",
+    "chaveirim": "+14104869000"
   },
   {
     "id": 106,
     "code": "",
     "name": "Michigan",
-    "Hatzalah": "+12488008000",
-    "Chaveirim": ""
+    "hatzalah": "+12488008000",
+    "chaveirim": ""
   },
   {
     "id": 107,
     "code": 248,
     "name": "Detroit",
-    "Hatzalah": "+12488008000",
-    "Chaveirim": "+12486588111"
+    "hatzalah": "+12488008000",
+    "chaveirim": "+12486588111"
   },
   {
     "id": 108,
     "code": "",
     "name": "Oak Park",
-    "Hatzalah": "+12488008000",
-    "Chaveirim": ""
+    "hatzalah": "+12488008000",
+    "chaveirim": ""
   },
   {
     "id": 109,
     "code": "",
     "name": "Southfield",
-    "Hatzalah": "+12488008000",
-    "Chaveirim": ""
+    "hatzalah": "+12488008000",
+    "chaveirim": ""
   },
   {
     "id": 110,
     "code": "",
     "name": "Huntington Woods",
-    "Hatzalah": "+12488008000",
-    "Chaveirim": ""
+    "hatzalah": "+12488008000",
+    "chaveirim": ""
   },
   {
     "id": 111,
     "code": "",
     "name": "Linden",
-    "Hatzalah": "+19088009200",
-    "Chaveirim": ""
+    "hatzalah": "+19088009200",
+    "chaveirim": ""
   },
   {
     "id": 112,
     "code": "",
     "name": "Roselle",
-    "Hatzalah": "+19088009200",
-    "Chaveirim": ""
+    "hatzalah": "+19088009200",
+    "chaveirim": ""
   },
   {
     "id": 113,
     "code": "",
     "name": "Clark",
-    "Hatzalah": "+19088009200",
-    "Chaveirim": ""
+    "hatzalah": "+19088009200",
+    "chaveirim": ""
   },
   {
     "id": 114,
     "code": "",
     "name": "Winfield",
-    "Hatzalah": "+19088009200",
-    "Chaveirim": ""
+    "hatzalah": "+19088009200",
+    "chaveirim": ""
   },
   {
     "id": 115,
     "code": "",
     "name": "Rahway",
-    "Hatzalah": "+19088009200",
-    "Chaveirim": ""
+    "hatzalah": "+19088009200",
+    "chaveirim": ""
   },
   {
     "id": 116,
     "code": "",
     "name": "Cranford",
-    "Hatzalah": "+19088009200",
-    "Chaveirim": ""
+    "hatzalah": "+19088009200",
+    "chaveirim": ""
   },
   {
     "id": 117,
     "code": "",
     "name": "Essex County",
-    "Hatzalah": "+12016132222",
-    "Chaveirim": ""
+    "hatzalah": "+12016132222",
+    "chaveirim": ""
   },
   {
     "id": 118,
     "code": "",
     "name": "Newark",
-    "Hatzalah": "+12016132222",
-    "Chaveirim": ""
+    "hatzalah": "+12016132222",
+    "chaveirim": ""
   },
   {
     "id": 119,
     "code": "",
     "name": "Hudson County",
-    "Hatzalah": "+12014229000",
-    "Chaveirim": ""
+    "hatzalah": "+12014229000",
+    "chaveirim": ""
   },
   {
     "id": 120,
     "code": "",
     "name": "Union City",
-    "Hatzalah": "+12014229000",
-    "Chaveirim": "+12014723608"
+    "hatzalah": "+12014229000",
+    "chaveirim": "+12014723608"
   },
   {
     "id": 121,
     "code": "",
     "name": "Jersey City",
-    "Hatzalah": "+12014229000",
-    "Chaveirim": "+12014723608"
+    "hatzalah": "+12014229000",
+    "chaveirim": "+12014723608"
   },
   {
     "id": 122,
     "code": "",
     "name": "Bayonne",
-    "Hatzalah": "+12014229000",
-    "Chaveirim": ""
+    "hatzalah": "+12014229000",
+    "chaveirim": ""
   },
   {
     "id": 123,
     "code": "",
     "name": "Hoboken",
-    "Hatzalah": "+12014229000",
-    "Chaveirim": ""
+    "hatzalah": "+12014229000",
+    "chaveirim": ""
   },
   {
     "id": 124,
     "code": "",
     "name": "Secaucus",
-    "Hatzalah": "+12014229000",
-    "Chaveirim": ""
+    "hatzalah": "+12014229000",
+    "chaveirim": ""
   },
   {
     "id": 125,
     "code": "",
     "name": "West New York",
-    "Hatzalah": "+12014229000",
-    "Chaveirim": ""
+    "hatzalah": "+12014229000",
+    "chaveirim": ""
   },
   {
     "id": 126,
     "code": "",
     "name": "North Bergen",
-    "Hatzalah": "+12014229000",
-    "Chaveirim": ""
+    "hatzalah": "+12014229000",
+    "chaveirim": ""
   },
   {
     "id": 127,
     "code": "",
     "name": "Guttenberg",
-    "Hatzalah": "+12014229000",
-    "Chaveirim": ""
+    "hatzalah": "+12014229000",
+    "chaveirim": ""
   },
   {
     "id": 128,
     "code": "",
     "name": "Jersey Shore",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": "+17329035867"
+    "hatzalah": "+17325319988",
+    "chaveirim": "+17329035867"
   },
   {
     "id": 129,
     "code": "",
     "name": "Allenhurst",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 130,
     "code": "",
     "name": "Bradley Beach",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 131,
     "code": "",
     "name": "Deal",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 132,
     "code": "",
     "name": "Eatontown",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 133,
     "code": "",
     "name": "Interlaken",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 134,
     "code": "",
     "name": "Loch Harbor",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 135,
     "code": "",
     "name": "Long Branch",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 136,
     "code": "",
     "name": "Elberon",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 137,
     "code": "",
     "name": "Ocean",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 138,
     "code": "",
     "name": "Deal Park",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 139,
     "code": "",
     "name": "Oakhurst",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 140,
     "code": "",
     "name": "West Deal",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 141,
     "code": "",
     "name": "Wayside",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 142,
     "code": "",
     "name": "Wanamassa",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 143,
     "code": "",
     "name": "West Long Branch",
-    "Hatzalah": "+17325319988",
-    "Chaveirim": ""
+    "hatzalah": "+17325319988",
+    "chaveirim": ""
   },
   {
     "id": 144,
     "code": "",
     "name": "Metrowest",
-    "Hatzalah": "+19736044000",
-    "Chaveirim": ""
+    "hatzalah": "+19736044000",
+    "chaveirim": ""
   },
   {
     "id": 145,
     "code": "",
     "name": "Livingston",
-    "Hatzalah": "+19736044000",
-    "Chaveirim": ""
+    "hatzalah": "+19736044000",
+    "chaveirim": ""
   },
   {
     "id": 146,
     "code": "",
     "name": "Morristown",
-    "Hatzalah": "+19736044000",
-    "Chaveirim": ""
+    "hatzalah": "+19736044000",
+    "chaveirim": ""
   },
   {
     "id": 147,
     "code": "",
     "name": "West Orange",
-    "Hatzalah": "+19736044000",
-    "Chaveirim": ""
+    "hatzalah": "+19736044000",
+    "chaveirim": ""
   },
   {
     "id": 148,
     "code": "",
     "name": "Middlesex County",
-    "Hatzalah": "+17324566666",
-    "Chaveirim": ""
+    "hatzalah": "+17324566666",
+    "chaveirim": ""
   },
   {
     "id": 149,
     "code": "",
     "name": "Middlesex",
-    "Hatzalah": "+17324566666",
-    "Chaveirim": ""
+    "hatzalah": "+17324566666",
+    "chaveirim": ""
   },
   {
     "id": 150,
     "code": "",
     "name": "Edison",
-    "Hatzalah": "+17324566666",
-    "Chaveirim": ""
+    "hatzalah": "+17324566666",
+    "chaveirim": ""
   },
   {
     "id": 151,
     "code": "",
     "name": "Highland Park",
-    "Hatzalah": "+17324566666",
-    "Chaveirim": ""
+    "hatzalah": "+17324566666",
+    "chaveirim": ""
   },
   {
     "id": 152,
     "code": "",
     "name": "Piscataway",
-    "Hatzalah": "+17324566666",
-    "Chaveirim": ""
+    "hatzalah": "+17324566666",
+    "chaveirim": ""
   },
   {
     "id": 153,
     "code": "",
     "name": "East Brunswick",
-    "Hatzalah": "+17324566666",
-    "Chaveirim": ""
+    "hatzalah": "+17324566666",
+    "chaveirim": ""
   },
   {
     "id": 154,
     "code": "",
     "name": "Passaic",
-    "Hatzalah": "+19734721002",
-    "Chaveirim": "+19734474811"
+    "hatzalah": "+19734721002",
+    "chaveirim": "+19734474811"
   },
   {
     "id": 155,
     "code": "",
     "name": "Clifton",
-    "Hatzalah": "+19734721002",
-    "Chaveirim": "+19734474811"
+    "hatzalah": "+19734721002",
+    "chaveirim": "+19734474811"
   },
   {
     "id": 156,
     "code": "",
     "name": "Union County",
-    "Hatzalah": "+19086599550",
-    "Chaveirim": "+19088666166"
+    "hatzalah": "+19086599550",
+    "chaveirim": "+19088666166"
   },
   {
     "id": 157,
     "code": "",
     "name": "Elizabeth",
-    "Hatzalah": "+19086599550",
-    "Chaveirim": "+19088666166"
+    "hatzalah": "+19086599550",
+    "chaveirim": "+19088666166"
   },
   {
     "id": 158,
     "code": "",
     "name": "Hillside",
-    "Hatzalah": "+19086599550",
-    "Chaveirim": "+19088666166"
+    "hatzalah": "+19086599550",
+    "chaveirim": "+19088666166"
   },
   {
     "id": 159,
     "code": "",
     "name": "Roselle Park",
-    "Hatzalah": "+19086599550",
-    "Chaveirim": "+19088666166"
+    "hatzalah": "+19086599550",
+    "chaveirim": "+19088666166"
   },
   {
     "id": 160,
     "code": "",
     "name": "Union",
-    "Hatzalah": "+19086599550",
-    "Chaveirim": "+19088666166"
+    "hatzalah": "+19086599550",
+    "chaveirim": "+19088666166"
   },
   {
     "id": 161,
     "code": "",
     "name": "Philadelphia",
-    "Hatzalah": "+12156776700",
-    "Chaveirim": "+18557424876"
+    "hatzalah": "+12156776700",
+    "chaveirim": "+18557424876"
   },
   {
     "id": 162,
     "code": 713,
     "name": "Houston",
-    "Hatzalah": "+18322102000",
-    "Chaveirim": "+12818008235"
+    "hatzalah": "+18322102000",
+    "chaveirim": "+12818008235"
   },
   {
     "id": 163,
     "code": "",
     "name": "Dallas",
-    "Hatzalah": "",
-    "Chaveirim": "+12148140109"
+    "hatzalah": "",
+    "chaveirim": "+12148140109"
   },
   {
     "id": 164,
     "code": "",
     "name": "Kiryas Joel",
-    "Hatzalah": "+18457831212",
-    "Chaveirim": "+18457823111"
+    "hatzalah": "+18457831212",
+    "chaveirim": "+18457823111"
   },
   {
     "id": 165,
     "code": "",
     "name": "Kiryas Yoel",
-    "Hatzalah": "+18457831212",
-    "Chaveirim": "+18457823111"
+    "hatzalah": "+18457831212",
+    "chaveirim": "+18457823111"
   },
   {
     "id": 166,
     "code": "",
     "name": "Monroe",
-    "Hatzalah": "+18457831212",
-    "Chaveirim": "+18457823111"
+    "hatzalah": "+18457831212",
+    "chaveirim": "+18457823111"
   },
   {
     "id": 167,
     "code": 845,
     "name": "Rockland County",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453716333"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453716333"
   },
   {
     "id": 168,
     "code": "",
     "name": "Monsey",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453716333"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453716333"
   },
   {
     "id": 169,
     "code": "",
     "name": "Spring Valley",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453716333"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453716333"
   },
   {
     "id": 170,
     "code": "",
     "name": "Haverstraw",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453716333"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453716333"
   },
   {
     "id": 171,
     "code": "",
     "name": "Airmont",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453716333"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453716333"
   },
   {
     "id": 172,
     "code": "",
     "name": "Garnerville",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453716333"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453716333"
   },
   {
     "id": 173,
     "code": "",
     "name": "Chestnut Ridge",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453716333"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453716333"
   },
   {
     "id": 174,
     "code": "",
     "name": "Pomona",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453716333"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453716333"
   },
   {
     "id": 175,
     "code": "",
     "name": "New City",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453716333"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453716333"
   },
   {
     "id": 176,
     "code": "",
     "name": "Wesley Hills",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453716333"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453716333"
   },
   {
     "id": 177,
     "code": "",
     "name": "New Square",
-    "Hatzalah": "+18454251600",
-    "Chaveirim": "+18453540222"
+    "hatzalah": "+18454251600",
+    "chaveirim": "+18453540222"
   },
   {
     "id": 178,
     "code": "",
     "name": "Bloomingburg",
-    "Hatzalah": "",
-    "Chaveirim": ""
+    "hatzalah": "",
+    "chaveirim": ""
   },
   {
     "id": 179,
     "code": "",
     "name": "Boston",
-    "Hatzalah": "",
-    "Chaveirim": "+16178704550"
+    "hatzalah": "",
+    "chaveirim": "+16178704550"
   },
   {
     "id": 180,
     "code": "",
     "name": "Cherry Hill",
-    "Hatzalah": "",
-    "Chaveirim": "+18562951914"
+    "hatzalah": "",
+    "chaveirim": "+18562951914"
   },
   {
     "id": 181,
     "code": "",
     "name": "Cincinnati",
-    "Hatzalah": "",
-    "Chaveirim": "+15132396922"
+    "hatzalah": "",
+    "chaveirim": "+15132396922"
   },
   {
     "id": 182,
     "code": "",
     "name": "Cleveland",
-    "Hatzalah": "",
-    "Chaveirim": "+12164550202"
+    "hatzalah": "",
+    "chaveirim": "+12164550202"
   },
   {
     "id": 183,
     "code": "",
     "name": "Denver",
-    "Hatzalah": "",
-    "Chaveirim": "+13035915794"
+    "hatzalah": "",
+    "chaveirim": "+13035915794"
   },
   {
     "id": 184,
     "code": "",
     "name": "Five Towns",
-    "Hatzalah": "+17182301000",
-    "Chaveirim": "+17184318181"
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17184318181"
   },
   {
     "id": 185,
     "code": "",
     "name": "Fleischmans",
-    "Hatzalah": "",
-    "Chaveirim": "+18454442666"
+    "hatzalah": "",
+    "chaveirim": "+18454442666"
   },
   {
     "id": 186,
     "code": "",
     "name": "Northeastern Pennsylvania",
-    "Hatzalah": "",
-    "Chaveirim": "+15709951470"
+    "hatzalah": "",
+    "chaveirim": "+15709951470"
   },
   {
     "id": 187,
     "code": "",
     "name": "Kingston",
-    "Hatzalah": "",
-    "Chaveirim": "+15709951470"
+    "hatzalah": "",
+    "chaveirim": "+15709951470"
   },
   {
     "id": 188,
     "code": "",
     "name": "Wilkes-Barre",
-    "Hatzalah": "",
-    "Chaveirim": "+15709951470"
+    "hatzalah": "",
+    "chaveirim": "+15709951470"
   },
   {
     "id": 189,
     "code": "",
     "name": "Scranton",
-    "Hatzalah": "",
-    "Chaveirim": "+15709951470"
+    "hatzalah": "",
+    "chaveirim": "+15709951470"
   },
   {
     "id": 190,
     "code": "",
     "name": "Chapman Lake",
-    "Hatzalah": "",
-    "Chaveirim": "+15709951470"
+    "hatzalah": "",
+    "chaveirim": "+15709951470"
   },
   {
     "id": 191,
     "code": "",
     "name": "Poconos",
-    "Hatzalah": "",
-    "Chaveirim": "+15709951470"
+    "hatzalah": "",
+    "chaveirim": "+15709951470"
   },
   {
     "id": 192,
     "code": "",
     "name": "Orlando",
-    "Hatzalah": "",
-    "Chaveirim": "+14073085857"
+    "hatzalah": "",
+    "chaveirim": "+14073085857"
   },
   {
     "id": 193,
     "code": "",
     "name": "Phoenix",
-    "Hatzalah": "",
-    "Chaveirim": "+14804701200"
+    "hatzalah": "",
+    "chaveirim": "+14804701200"
   },
   {
     "id": 194,
     "code": "",
     "name": "Postville",
-    "Hatzalah": "",
-    "Chaveirim": "+15635036664"
+    "hatzalah": "",
+    "chaveirim": "+15635036664"
   },
   {
     "id": 195,
     "code": "",
     "name": "Sussex County",
-    "Hatzalah": "",
-    "Chaveirim": "+19734465586"
+    "hatzalah": "",
+    "chaveirim": "+19734465586"
   },
   {
     "id": 196,
     "code": "",
     "name": "Tannersville",
-    "Hatzalah": "",
-    "Chaveirim": "+18482245360"
+    "hatzalah": "",
+    "chaveirim": "+18482245360"
   },
   {
     "id": 197,
     "code": "",
     "name": "Westchester",
-    "Hatzalah": "",
-    "Chaveirim": "+19142220405"
+    "hatzalah": "",
+    "chaveirim": "+19142220405"
   }
 ]
