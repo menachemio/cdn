@@ -1384,5 +1384,12 @@
     "name": "Westchester",
     "hatzalah": "",
     "chaveirim": "+19142220405"
+  },
+  {
+    "id": 198,
+    "code": "",
+    "name": "Brooklyn",
+    "hatzalah": "+17182301000",
+    "chaveirim": "+17184318181"
   }
 ]
