@@ -1,0 +1,1087 @@
+[
+    {
+      "city_id": 999,
+      "city_code": 999,
+      "name": "Yellowknife"
+    },
+    {
+      "city_id": 1,
+      "city_code": 718,
+      "name": "New York City"
+    },
+    {
+      "city_id": 2,
+      "city_code": "",
+      "name": "Averne"
+    },
+    {
+      "city_id": 3,
+      "city_code": "",
+      "name": "Atlantic Beach"
+    },
+    {
+      "city_id": 4,
+      "city_code": "",
+      "name": "Bayswater"
+    },
+    {
+      "city_id": 5,
+      "city_code": "",
+      "name": "Belle Harbor"
+    },
+    {
+      "city_id": 6,
+      "city_code": "",
+      "name": "Bensonhurst"
+    },
+    {
+      "city_id": 7,
+      "city_code": "",
+      "name": "Bergan Beach"
+    },
+    {
+      "city_id": 8,
+      "city_code": "",
+      "name": "Borough Park"
+    },
+    {
+      "city_id": 9,
+      "city_code": "",
+      "name": "Briarwood"
+    },
+    {
+      "city_id": 10,
+      "city_code": "",
+      "name": "Brighton Beach"
+    },
+    {
+      "city_id": 11,
+      "city_code": "",
+      "name": "Canarsie"
+    },
+    {
+      "city_id": 12,
+      "city_code": "",
+      "name": "Cedarhurst"
+    },
+    {
+      "city_id": 13,
+      "city_code": 770,
+      "name": "Crown Heights"
+    },
+    {
+      "city_id": 14,
+      "city_code": "",
+      "name": "East Rockaway"
+    },
+    {
+      "city_id": 15,
+      "city_code": "",
+      "name": "Far Rockaway"
+    },
+    {
+      "city_id": 16,
+      "city_code": "",
+      "name": "Flatbush"
+    },
+    {
+      "city_id": 17,
+      "city_code": "",
+      "name": "Flushing"
+    },
+    {
+      "city_id": 18,
+      "city_code": "",
+      "name": "Forest Hills"
+    },
+    {
+      "city_id": 19,
+      "city_code": "",
+      "name": "Georgetown"
+    },
+    {
+      "city_id": 20,
+      "city_code": "",
+      "name": "Great Neck"
+    },
+    {
+      "city_id": 21,
+      "city_code": "",
+      "name": "Hewlett"
+    },
+    {
+      "city_id": 22,
+      "city_code": "",
+      "name": "Hillcrest"
+    },
+    {
+      "city_id": 23,
+      "city_code": "",
+      "name": "Howard Beach"
+    },
+    {
+      "city_id": 24,
+      "city_code": "",
+      "name": "Inwood"
+    },
+    {
+      "city_id": 25,
+      "city_code": "",
+      "name": "Jamaica Estates"
+    },
+    {
+      "city_id": 26,
+      "city_code": "",
+      "name": "Kensington"
+    },
+    {
+      "city_id": 27,
+      "city_code": "",
+      "name": "Kew Gardens"
+    },
+    {
+      "city_id": 28,
+      "city_code": "",
+      "name": "Kew Garden Hills"
+    },
+    {
+      "city_id": 29,
+      "city_code": "",
+      "name": "Lawrence"
+    },
+    {
+      "city_id": 30,
+      "city_code": "",
+      "name": "Long Beach"
+    },
+    {
+      "city_id": 31,
+      "city_code": "",
+      "name": "Lower East Side"
+    },
+    {
+      "city_id": 32,
+      "city_code": 212,
+      "name": "Manhattan"
+    },
+    {
+      "city_id": 33,
+      "city_code": "",
+      "name": "Midwood"
+    },
+    {
+      "city_id": 34,
+      "city_code": "",
+      "name": "Mill Basin"
+    },
+    {
+      "city_id": 35,
+      "city_code": "",
+      "name": "Nassau County"
+    },
+    {
+      "city_id": 36,
+      "city_code": "",
+      "name": "North Woodmere"
+    },
+    {
+      "city_id": 37,
+      "city_code": "",
+      "name": "Queens"
+    },
+    {
+      "city_id": 38,
+      "city_code": "",
+      "name": "Rego Park"
+    },
+    {
+      "city_id": 39,
+      "city_code": "",
+      "name": "Remsen Village"
+    },
+    {
+      "city_id": 40,
+      "city_code": "",
+      "name": "Richmond Hill"
+    },
+    {
+      "city_id": 41,
+      "city_code": "",
+      "name": "Rockaway Lawrence"
+    },
+    {
+      "city_id": 42,
+      "city_code": "",
+      "name": "Riverdale"
+    },
+    {
+      "city_id": 43,
+      "city_code": "",
+      "name": "Rosedale"
+    },
+    {
+      "city_id": 44,
+      "city_code": "",
+      "name": "Sheepshead Bay"
+    },
+    {
+      "city_id": 45,
+      "city_code": "",
+      "name": "Starret City"
+    },
+    {
+      "city_id": 46,
+      "city_code": "",
+      "name": "Sea Gate"
+    },
+    {
+      "city_id": 47,
+      "city_code": "",
+      "name": "Staten Island"
+    },
+    {
+      "city_id": 48,
+      "city_code": "",
+      "name": "Sullivan County"
+    },
+    {
+      "city_id": 49,
+      "city_code": "",
+      "name": "Ulster County"
+    },
+    {
+      "city_id": 50,
+      "city_code": "",
+      "name": "Upper East Side"
+    },
+    {
+      "city_id": 51,
+      "city_code": "",
+      "name": "Washington Heights"
+    },
+    {
+      "city_id": 52,
+      "city_code": "",
+      "name": "West Lawrence"
+    },
+    {
+      "city_id": 53,
+      "city_code": "",
+      "name": "West Side"
+    },
+    {
+      "city_id": 54,
+      "city_code": "",
+      "name": "Woodmere"
+    },
+    {
+      "city_id": 55,
+      "city_code": "",
+      "name": "Williamsburg"
+    },
+    {
+      "city_id": 56,
+      "city_code": "",
+      "name": "Yonkers"
+    },
+    {
+      "city_id": 57,
+      "city_code": "",
+      "name": "Catskills"
+    },
+    {
+      "city_id": 58,
+      "city_code": "",
+      "name": "Bergen County"
+    },
+    {
+      "city_id": 60,
+      "city_code": "",
+      "name": "American Dream Mall"
+    },
+    {
+      "city_id": 61,
+      "city_code": "",
+      "name": "Bergenfield"
+    },
+    {
+      "city_id": 62,
+      "city_code": "",
+      "name": "Cliffside Park"
+    },
+    {
+      "city_id": 63,
+      "city_code": "",
+      "name": "Closter"
+    },
+    {
+      "city_id": 64,
+      "city_code": "",
+      "name": "Demarest"
+    },
+    {
+      "city_id": 65,
+      "city_code": "",
+      "name": "Edgewater"
+    },
+    {
+      "city_id": 66,
+      "city_code": "",
+      "name": "Englewood"
+    },
+    {
+      "city_id": 67,
+      "city_code": "",
+      "name": "Englewood Cliffs"
+    },
+    {
+      "city_id": 68,
+      "city_code": "",
+      "name": "Fair Lawn"
+    },
+    {
+      "city_id": 69,
+      "city_code": "",
+      "name": "Fort Lee"
+    },
+    {
+      "city_id": 70,
+      "city_code": "",
+      "name": "Hackensack"
+    },
+    {
+      "city_id": 71,
+      "city_code": "",
+      "name": "Hasbrouck Heights"
+    },
+    {
+      "city_id": 72,
+      "city_code": "",
+      "name": "Lodi"
+    },
+    {
+      "city_id": 73,
+      "city_code": "",
+      "name": "New Milford"
+    },
+    {
+      "city_id": 74,
+      "city_code": "",
+      "name": "Paramus"
+    },
+    {
+      "city_id": 75,
+      "city_code": "",
+      "name": "Ridgefield"
+    },
+    {
+      "city_id": 76,
+      "city_code": "",
+      "name": "Ridgefield Park"
+    },
+    {
+      "city_id": 77,
+      "city_code": "",
+      "name": "Rockleigh"
+    },
+    {
+      "city_id": 78,
+      "city_code": "",
+      "name": "Teaneck"
+    },
+    {
+      "city_id": 79,
+      "city_code": "",
+      "name": "Tenafly"
+    },
+    {
+      "city_id": 80,
+      "city_code": 732,
+      "name": "Central Jersey"
+    },
+    {
+      "city_id": 81,
+      "city_code": "",
+      "name": "Lakewood"
+    },
+    {
+      "city_id": 82,
+      "city_code": "",
+      "name": "Jackson"
+    },
+    {
+      "city_id": 83,
+      "city_code": "",
+      "name": "Toms River"
+    },
+    {
+      "city_id": 84,
+      "city_code": "",
+      "name": "South Florida"
+    },
+    {
+      "city_id": 85,
+      "city_code": "",
+      "name": "Miami"
+    },
+    {
+      "city_id": 86,
+      "city_code": "",
+      "name": "Miami Beach"
+    },
+    {
+      "city_id": 87,
+      "city_code": "",
+      "name": "North Miami Beach"
+    },
+    {
+      "city_id": 88,
+      "city_code": "",
+      "name": "Surfside"
+    },
+    {
+      "city_id": 89,
+      "city_code": "",
+      "name": "Bal Harbour"
+    },
+    {
+      "city_id": 90,
+      "city_code": "",
+      "name": "Bay Harbor Islands"
+    },
+    {
+      "city_id": 91,
+      "city_code": "",
+      "name": "Highland Lakes"
+    },
+    {
+      "city_id": 92,
+      "city_code": "",
+      "name": "Sunny Isles"
+    },
+    {
+      "city_id": 93,
+      "city_code": "",
+      "name": "Aventura"
+    },
+    {
+      "city_id": 94,
+      "city_code": "",
+      "name": "Hallandale Beach"
+    },
+    {
+      "city_id": 95,
+      "city_code": "",
+      "name": "Hollywood"
+    },
+    {
+      "city_id": 96,
+      "city_code": "",
+      "name": "Lauderhill"
+    },
+    {
+      "city_id": 97,
+      "city_code": "",
+      "name": "Boca Raton"
+    },
+    {
+      "city_id": 98,
+      "city_code": "",
+      "name": "Deerfield Beach"
+    },
+    {
+      "city_id": 99,
+      "city_code": 514,
+      "name": "Montreal"
+    },
+    {
+      "city_id": 100,
+      "city_code": 450,
+      "name": "Tosh"
+    },
+    {
+      "city_id": 101,
+      "city_code": 416,
+      "name": "Toronto"
+    },
+    {
+      "city_id": 102,
+      "city_code": 323,
+      "name": "Los Angeles"
+    },
+    {
+      "city_id": 103,
+      "city_code": "",
+      "name": "Waterbury"
+    },
+    {
+      "city_id": 104,
+      "city_code": "",
+      "name": "Chicago"
+    },
+    {
+      "city_id": 105,
+      "city_code": "",
+      "name": "Baltimore"
+    },
+    {
+      "city_id": 106,
+      "city_code": "",
+      "name": "Michigan"
+    },
+    {
+      "city_id": 107,
+      "city_code": 248,
+      "name": "Detroit"
+    },
+    {
+      "city_id": 108,
+      "city_code": "",
+      "name": "Oak Park"
+    },
+    {
+      "city_id": 109,
+      "city_code": "",
+      "name": "Southfield"
+    },
+    {
+      "city_id": 110,
+      "city_code": "",
+      "name": "Huntington Woods"
+    },
+    {
+      "city_id": 111,
+      "city_code": "",
+      "name": "Linden"
+    },
+    {
+      "city_id": 112,
+      "city_code": "",
+      "name": "Roselle"
+    },
+    {
+      "city_id": 113,
+      "city_code": "",
+      "name": "Clark"
+    },
+    {
+      "city_id": 114,
+      "city_code": "",
+      "name": "Winfield"
+    },
+    {
+      "city_id": 115,
+      "city_code": "",
+      "name": "Rahway"
+    },
+    {
+      "city_id": 116,
+      "city_code": "",
+      "name": "Cranford"
+    },
+    {
+      "city_id": 117,
+      "city_code": "",
+      "name": "Essex County"
+    },
+    {
+      "city_id": 118,
+      "city_code": "",
+      "name": "Newark"
+    },
+    {
+      "city_id": 119,
+      "city_code": "",
+      "name": "Hudson County"
+    },
+    {
+      "city_id": 120,
+      "city_code": "",
+      "name": "Union City"
+    },
+    {
+      "city_id": 121,
+      "city_code": "",
+      "name": "Jersey City"
+    },
+    {
+      "city_id": 122,
+      "city_code": "",
+      "name": "Bayonne"
+    },
+    {
+      "city_id": 123,
+      "city_code": "",
+      "name": "Hoboken"
+    },
+    {
+      "city_id": 124,
+      "city_code": "",
+      "name": "Secaucus"
+    },
+    {
+      "city_id": 125,
+      "city_code": "",
+      "name": "West New York"
+    },
+    {
+      "city_id": 126,
+      "city_code": "",
+      "name": "North Bergen"
+    },
+    {
+      "city_id": 127,
+      "city_code": "",
+      "name": "Guttenberg"
+    },
+    {
+      "city_id": 128,
+      "city_code": "",
+      "name": "Jersey Shore"
+    },
+    {
+      "city_id": 129,
+      "city_code": "",
+      "name": "Allenhurst"
+    },
+    {
+      "city_id": 130,
+      "city_code": "",
+      "name": "Bradley Beach"
+    },
+    {
+      "city_id": 131,
+      "city_code": "",
+      "name": "Deal"
+    },
+    {
+      "city_id": 132,
+      "city_code": "",
+      "name": "Eatontown"
+    },
+    {
+      "city_id": 133,
+      "city_code": "",
+      "name": "Interlaken"
+    },
+    {
+      "city_id": 134,
+      "city_code": "",
+      "name": "Loch Harbor"
+    },
+    {
+      "city_id": 135,
+      "city_code": "",
+      "name": "Long Branch"
+    },
+    {
+      "city_id": 136,
+      "city_code": "",
+      "name": "Elberon"
+    },
+    {
+      "city_id": 137,
+      "city_code": "",
+      "name": "Ocean"
+    },
+    {
+      "city_id": 138,
+      "city_code": "",
+      "name": "Deal Park"
+    },
+    {
+      "city_id": 139,
+      "city_code": "",
+      "name": "Oakhurst"
+    },
+    {
+      "city_id": 140,
+      "city_code": "",
+      "name": "West Deal"
+    },
+    {
+      "city_id": 141,
+      "city_code": "",
+      "name": "Wayside"
+    },
+    {
+      "city_id": 142,
+      "city_code": "",
+      "name": "Wanamassa"
+    },
+    {
+      "city_id": 143,
+      "city_code": "",
+      "name": "West Long Branch"
+    },
+    {
+      "city_id": 144,
+      "city_code": "",
+      "name": "Metrowest"
+    },
+    {
+      "city_id": 145,
+      "city_code": "",
+      "name": "Livingston"
+    },
+    {
+      "city_id": 146,
+      "city_code": "",
+      "name": "Morristown"
+    },
+    {
+      "city_id": 147,
+      "city_code": "",
+      "name": "West Orange"
+    },
+    {
+      "city_id": 148,
+      "city_code": "",
+      "name": "Middlesex County"
+    },
+    {
+      "city_id": 149,
+      "city_code": "",
+      "name": "Middlesex"
+    },
+    {
+      "city_id": 150,
+      "city_code": "",
+      "name": "Edison"
+    },
+    {
+      "city_id": 151,
+      "city_code": "",
+      "name": "Highland Park"
+    },
+    {
+      "city_id": 152,
+      "city_code": "",
+      "name": "Piscataway"
+    },
+    {
+      "city_id": 153,
+      "city_code": "",
+      "name": "East Brunswick"
+    },
+    {
+      "city_id": 154,
+      "city_code": "",
+      "name": "Passaic"
+    },
+    {
+      "city_id": 155,
+      "city_code": "",
+      "name": "Clifton"
+    },
+    {
+      "city_id": 156,
+      "city_code": "",
+      "name": "Union County"
+    },
+    {
+      "city_id": 157,
+      "city_code": "",
+      "name": "Elizabeth"
+    },
+    {
+      "city_id": 158,
+      "city_code": "",
+      "name": "Hillside"
+    },
+    {
+      "city_id": 159,
+      "city_code": "",
+      "name": "Roselle Park"
+    },
+    {
+      "city_id": 160,
+      "city_code": "",
+      "name": "Union"
+    },
+    {
+      "city_id": 161,
+      "city_code": "",
+      "name": "Philadelphia"
+    },
+    {
+      "city_id": 162,
+      "city_code": 713,
+      "name": "Houston"
+    },
+    {
+      "city_id": 163,
+      "city_code": "",
+      "name": "Dallas"
+    },
+    {
+      "city_id": 164,
+      "city_code": "",
+      "name": "Kiryas Joel"
+    },
+    {
+      "city_id": 166,
+      "city_code": "",
+      "name": "Monroe"
+    },
+    {
+      "city_id": 167,
+      "city_code": 845,
+      "name": "Rockland County"
+    },
+    {
+      "city_id": 168,
+      "city_code": "",
+      "name": "Monsey"
+    },
+    {
+      "city_id": 169,
+      "city_code": "",
+      "name": "Spring Valley"
+    },
+    {
+      "city_id": 170,
+      "city_code": "",
+      "name": "Haverstraw"
+    },
+    {
+      "city_id": 171,
+      "city_code": "",
+      "name": "Airmont"
+    },
+    {
+      "city_id": 172,
+      "city_code": "",
+      "name": "Garnerville"
+    },
+    {
+      "city_id": 173,
+      "city_code": "",
+      "name": "Chestnut Ridge"
+    },
+    {
+      "city_id": 174,
+      "city_code": "",
+      "name": "Pomona"
+    },
+    {
+      "city_id": 175,
+      "city_code": "",
+      "name": "New City"
+    },
+    {
+      "city_id": 176,
+      "city_code": "",
+      "name": "Wesley Hills"
+    },
+    {
+      "city_id": 177,
+      "city_code": "",
+      "name": "New Square"
+    },
+    {
+      "city_id": 178,
+      "city_code": "",
+      "name": "Bloomingburg"
+    },
+    {
+      "city_id": 179,
+      "city_code": "",
+      "name": "Boston"
+    },
+    {
+      "city_id": 180,
+      "city_code": "",
+      "name": "Cherry Hill"
+    },
+    {
+      "city_id": 181,
+      "city_code": "",
+      "name": "Cincinnati"
+    },
+    {
+      "city_id": 182,
+      "city_code": "",
+      "name": "Cleveland"
+    },
+    {
+      "city_id": 183,
+      "city_code": "",
+      "name": "Denver"
+    },
+    {
+      "city_id": 184,
+      "city_code": "",
+      "name": "Five Towns"
+    },
+    {
+      "city_id": 185,
+      "city_code": "",
+      "name": "Fleischmans"
+    },
+    {
+      "city_id": 186,
+      "city_code": "",
+      "name": "Northeastern Pennsylvania"
+    },
+    {
+      "city_id": 187,
+      "city_code": "",
+      "name": "Kingston"
+    },
+    {
+      "city_id": 188,
+      "city_code": "",
+      "name": "Wilkes-Barre"
+    },
+    {
+      "city_id": 189,
+      "city_code": "",
+      "name": "Scranton"
+    },
+    {
+      "city_id": 190,
+      "city_code": "",
+      "name": "Chapman Lake"
+    },
+    {
+      "city_id": 191,
+      "city_code": "",
+      "name": "Poconos"
+    },
+    {
+      "city_id": 192,
+      "city_code": "",
+      "name": "Orlando"
+    },
+    {
+      "city_id": 193,
+      "city_code": "",
+      "name": "Phoenix"
+    },
+    {
+      "city_id": 194,
+      "city_code": "",
+      "name": "Postville"
+    },
+    {
+      "city_id": 195,
+      "city_code": "",
+      "name": "Sussex County"
+    },
+    {
+      "city_id": 196,
+      "city_code": "",
+      "name": "Tannersville"
+    },
+    {
+      "city_id": 197,
+      "city_code": "",
+      "name": "Westchester"
+    },
+    {
+      "city_id": 999,
+      "city_code": "",
+      "name": "Yorkshire"
+    },
+    {
+      "city_id": 1,
+      "city_code": "",
+      "name": "New York"
+    },
+    {
+      "city_id": 100,
+      "city_code": "",
+      "name": "Cost"
+    },
+    {
+      "city_id": 100,
+      "city_code": "",
+      "name": "Tash"
+    },
+    {
+      "city_id": 100,
+      "city_code": "",
+      "name": "Stop"
+    },
+    {
+      "city_id": 102,
+      "city_code": "",
+      "name": "La Brea"
+    },
+    {
+      "city_id": 102,
+      "city_code": "",
+      "name": "Pico"
+    },
+    {
+      "city_id": 164,
+      "city_code": "",
+      "name": "Kiryas Yoel"
+    },
+    {
+      "city_id": 184,
+      "city_code": "",
+      "name": "5 Towns"
+    },
+    {
+      "city_id": 184,
+      "city_code": "",
+      "name": "The Five Towns"
+    },
+    {
+      "city_id": 184,
+      "city_code": "",
+      "name": "The 5 Towns"
+    },
+    {
+      "city_id": 184,
+      "city_code": "",
+      "name": "5 lb"
+    },
+    {
+      "city_id": 184,
+      "city_code": "",
+      "name": "The 5 lb"
+    },
+    {
+      "city_id": 184,
+      "city_code": "",
+      "name": "The Five lb"
+    },
+    {
+      "city_id": 184,
+      "city_code": "",
+      "name": "The 5lb"
+    },
+    {
+      "city_id": 184,
+      "city_code": "",
+      "name": "The five towns"
+    },
+    {
+      "city_id": 184,
+      "city_code": "",
+      "name": "Five towns"
+    },
+    {
+      "city_id": 187,
+      "city_code": "",
+      "name": "Kingston Pennsylvania"
+    },
+    {
+      "city_id": 162,
+      "city_code": "",
+      "name": "Houston Texas"
+    },
+    {
+      "city_id": 58,
+      "city_code": "",
+      "name": "Bergen"
+    },
+    {
+      "city_id": 1,
+      "city_code": "",
+      "name": "Brooklyn"
+    }
+  ]
