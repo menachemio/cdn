@@ -1,0 +1,62 @@
+[
+    {
+      "prompt": "start$message",
+      "english": "You have reached One Call. Beta release."
+    },
+    {
+      "prompt": "find_city$say_city",
+      "english": "Please say the city you are in."
+    },
+    {
+      "prompt": "find_city$no_match",
+      "english": "Our Beta service did not find a match for"
+    },
+    {
+      "prompt": "try_again",
+      "english": "Please try again."
+    },
+    {
+      "prompt": "find_city$match_tip",
+      "english": "Try using another name for your area."
+    },
+    {
+      "prompt": "find_city$match_feedback",
+      "english": "If there is a city we are missing, please email contact@onecall.one."
+    },
+    {
+      "prompt": "returning_to_main_menu",
+      "english": "Now returning to the Main Menu."
+    },
+    {
+      "prompt": "thank_u",
+      "english": "Thank you."
+    },
+    {
+      "prompt": "city_menu$connect_with",
+      "english": "Connecting you with:"
+    },
+    {
+      "prompt": "city_menu$hatzalah",
+      "english": "Hatzalah"
+    },
+    {
+      "prompt": "city_menu$chaverim",
+      "english": "Chaverim"
+    },
+    {
+      "prompt": "input$one",
+      "english": "Say or Press One."
+    },
+    {
+      "prompt": "input$two",
+      "english": "Say or Press Two."
+    },
+    {
+      "prompt": "input$star",
+      "english": "Press the Star key."
+    },
+    {
+      "prompt": "input$go_back",
+      "english": "Say \"Go Back\" or Press the Star key."
+    }
+  ]
