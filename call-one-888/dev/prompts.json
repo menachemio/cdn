@@ -1,7 +1,7 @@
 [
     {
       "prompt": "start$message",
-      "english": "You have reached One Call. Beta release."
+      "english": "OneCall. Beta."
     },
     {
       "prompt": "find_city$say_city",

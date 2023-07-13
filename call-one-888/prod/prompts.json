@@ -1,15 +1,15 @@
 [
     {
       "prompt": "start$message",
-      "english": "You have reached One Call. Beta release."
+      "english": "OneCall. Beta."
     },
     {
       "prompt": "find_city$say_city",
-      "english": "Please say the city you are in."
+      "english": "Say the your city."
     },
     {
       "prompt": "find_city$no_match",
-      "english": "Our Beta service did not find a match for"
+      "english": "Our beta service did not find a match for"
     },
     {
       "prompt": "try_again",
