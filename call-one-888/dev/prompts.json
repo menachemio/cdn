@@ -1,11 +1,11 @@
 [
     {
       "prompt": "start$message",
-      "english": "OneCall. Beta."
+      "english": "OneCall. Beta developement."
     },
     {
       "prompt": "find_city$say_city",
-      "english": "Please say the city you are in."
+      "english": "Say your city or enter city code."
     },
     {
       "prompt": "find_city$no_match",
