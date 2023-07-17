@@ -5,7 +5,7 @@
     },
     {
       "prompt": "find_city$say_city",
-      "english": "Say the your city."
+      "english": "Say your city."
     },
     {
       "prompt": "find_city$no_match",
