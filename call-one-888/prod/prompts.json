@@ -1,7 +1,7 @@
 [
     {
       "prompt": "start$message",
-      "english": "OneCall. Beta."
+      "english": "<prosody rate=\"slow\">OneCall. Beta.</prosody>"
     },
     {
       "prompt": "find_city$say_city",
